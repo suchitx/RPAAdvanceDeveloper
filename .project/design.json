@@ -1,3 +1,5 @@
-﻿{
-  "Tags": []
+{
+  "Tags": [],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
 }
